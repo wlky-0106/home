@@ -1,10 +1,10 @@
 {
-    "title": "無名の主页",
+    "title": "Nekoの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "無名,个人主页",
-    "author": "無名",
+    "keywords": "Nekoz,个人主页",
+    "author": "Nekoz",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "imsyy",
+    "logo_text_1": "Nekoz",
     "logo_text_2": "top",
     "des_title": [
         "Hello World !",
@@ -14,31 +14,27 @@
         "Oops !",
         "哎呀，这都被你发现了 ( 再点击一次可关闭 )"
     ],
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "telegram": "bottom_user",
-    "twitter": "iimmsyy",
-    "weather_api": "https://www.yiketianqi.com/free/day?appid=43656176&appsecret=I42og6Lm&unescape=1",
+    "github": "wlky-0106",
+    "email": "postmaster@nekoz.top",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://nekoz.top/",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://down.nekoz.top/",
         "fa-solid fa-cloud",
         "网盘"
     ],
     "link_3": [
-        "https://blog.imsyy.top/",
+        "https://music.nekoz.top/",
         "fa-solid fa-music",
         "音乐"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
+        "https://search.imsyy.top/",
         "fa-solid fa-compass",
-        "起始页"
+        "搜索页"
     ],
     "link_5": [
         "https://web.imsyy.top/",
@@ -65,5 +61,5 @@
         ]
     ],
     "Copyright_year": "2020",
-    "Copyright_text": "無名"
+    "Copyright_text": "nekoz"
 }
